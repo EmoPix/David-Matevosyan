@@ -1,0 +1,12 @@
+body{
+	background-image: url("images/gobins.gif")
+}
+#questionDiv{
+	color: #F0F3F4;
+}
+label{
+	color: #3498DB;
+	background-color: #F7DC6F;
+	border-radius: 40px;
+	border: 1px solid blue;
+}
